@@ -23,13 +23,13 @@ public class Taller1 {
         boolean activo=true;
         
         do {
-            System.out.println("========= menu de opciones ===========");
+            System.out.println("========= menu de opciones ==========");
             System.out.println("1. Agregar tarea");
             System.out.println("2. Mostrar tarea");
             System.out.println("3. Ordenadas por prioridad");
             System.out.println("4. Terminar programa");
             System.out.println("Seleccione una opcion");
-            System.out.println("======================================");
+            System.out.println("=====================================");
             
             int opcion = lector.nextInt();
             
